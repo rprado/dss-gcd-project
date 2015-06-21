@@ -7,6 +7,7 @@
 "activity"
 
 // mean related columns
+
 "tBodyAcc.mean...X"
 "tBodyAcc.mean...Y"
 "tBodyAcc.mean...Z"
@@ -41,7 +42,9 @@
 "fBodyBodyGyroMag.mean.."
 "fBodyBodyGyroJerkMag.mean.."
 
+
 // std related columns
+
 "tBodyAcc.std...X"
 "tBodyAcc.std...Y"
 "tBodyAcc.std...Z"
